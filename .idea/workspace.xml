@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="deae4050-4f03-4d80-b7d3-6b505feda4fe" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Car Sharing/task/src/carsharing/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Car Sharing/task/src/carsharing/dao/CarDao.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Car Sharing/task/src/carsharing/dao/CompanyDao.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Car Sharing/task/src/carsharing/dao/CustomerDao.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Car Sharing/task/src/carsharing/db/DbClient.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Car Sharing/task/src/carsharing/db/SqlQueryConstants.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Car Sharing/task/src/carsharing/db/carsharing.mv.db" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Car Sharing/task/src/carsharing/dbDao/DbDao.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Car Sharing/task/src/carsharing/menu/Menu.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Car Sharing/task/src/carsharing/model/Car.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Car Sharing/task/src/carsharing/model/Company.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Car Sharing/task/src/carsharing/model/Customer.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Car Sharing/task/test/CarSharingTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Car Sharing/task/test/DatabaseUtil.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Anonymous class/And always these rules/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Anonymous class/Capture variables/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Anonymous class/Exploring Java's Anonymous Classes/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Anonymous class/Find a correct syntax/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Anonymous class/Implement Runnable/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Anonymous class/Single method/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Anonymous class/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Anonymous class/Tricky Java  Final in Anonymous Classes/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Collectors/ASCII Art/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Collectors/Statements/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Collectors/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Comparable/Implement Comparable/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Comparable/Implement compareTo method/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Comparable/Implement comparing by additional fields/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Comparable/Ratings/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Comparable/Rewrite compareTo method/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Comparable/Rules/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Comparable/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Comparable/Value class/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Comparator/Comparator vs Comparable/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Comparator/Method name/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Comparator/Most valuable items/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Comparator/Non-abstract methods/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Comparator/Sort users/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Comparator/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Data Access Object for JDBC/DAO pattern interface declaration/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Data Access Object for JDBC/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Default methods/Diamond problem/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Default methods/Implement a default method/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Default methods/Resolve a diamond problem/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Default methods/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Default methods/What is the result/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/File class/A relative path/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/File class/Are siblings/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/File class/Getting information/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/File class/Non-existing location/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/File class/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/File class/Сorrect statements/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Functional data processing with streams/Count passwords/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Functional data processing with streams/Print elements of a stream/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Functional data processing with streams/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Functional interfaces/Ternary predicate/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Functional interfaces/The requirement/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Functional interfaces/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Method references/All correct method references/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Method references/Ascending and descending sorting/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Method references/Kinds of method references/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Method references/Method reference with the instance/answer.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Method references/The reference to a Journal's constructor/answer.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Method references/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Method references/Writing a method reference/answer.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Method references/getAuthors reference/answer.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Optional/Avoiding exceptions/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Optional/Check an Optional value/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Optional/Sum up optional values/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Optional/The address book/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Optional/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Optional/What is Optional/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Reduction methods/Calculating factorials/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Reduction methods/Determine the result of reduction/answer.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Reduction methods/Parts of the reduction/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Reduction methods/Reduce-like operations/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Reduction methods/Reducing persons by ages/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Reduction methods/Statements/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Reduction methods/The count operation/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Reduction methods/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Standard functional interfaces/Accounts/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Standard functional interfaces/Describe the function/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Standard functional interfaces/Functional interfaces utilization/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Standard functional interfaces/Interface matching/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Standard functional interfaces/Matching lambda expressions/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Standard functional interfaces/Package java.util.function/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Standard functional interfaces/Select suitable interfaces/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Standard functional interfaces/Ternary operator/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Standard functional interfaces/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2a8H1NEwYo9UWtRww3e1E9LUoiO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Edu.Yaml.Migrate": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "actions.on.save",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "h2"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Car Sharing/task/src/carsharing" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="carSharing.Main" />
+      <module name="Car_Sharing.CarSharing-task.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="carSharing.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Car Sharing" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Car Sharing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Car Sharing" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Gradle.Car Sharing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SqlInitializationState">
+    <taskDatabasesInitialized>
+      <option value="jdbc:h2:file:/Users/uladzimirdabravolski/Desktop/Car Sharing/Car Sharing/Companies/db/db" />
+      <option value="jdbc:h2:file:/Users/uladzimirdabravolski/Desktop/Car Sharing/Car Sharing/Initialization/db/db" />
+      <option value="jdbc:h2:file:/Users/uladzimirdabravolski/Desktop/Car Sharing/Car Sharing/Welcome, customer/db/db" />
+      <option value="jdbc:h2:file:/Users/uladzimirdabravolski/Downloads/Car Sharing/Car Sharing/Companies/db/db" />
+      <option value="jdbc:h2:file:/Users/uladzimirdabravolski/Downloads/Car Sharing/Car Sharing/Initialization/db/db" />
+      <option value="jdbc:h2:file:/Users/uladzimirdabravolski/Downloads/Car Sharing/Car Sharing/Relationship/db/db" />
+      <option value="jdbc:h2:file:/Users/uladzimirdabravolski/Downloads/Car Sharing/Car Sharing/Welcome, customer/db/db" />
+    </taskDatabasesInitialized>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="deae4050-4f03-4d80-b7d3-6b505feda4fe" name="Changes" comment="" />
+      <created>1703693070640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703693070640</updated>
+      <workItem from="1703693072018" duration="1071000" />
+      <workItem from="1703783792342" duration="7999000" />
+      <workItem from="1703974907888" duration="4161000" />
+      <workItem from="1704102492030" duration="5820000" />
+      <workItem from="1704831763550" duration="152000" />
+      <workItem from="1704831927740" duration="321000" />
+      <workItem from="1704832273836" duration="88000" />
+      <workItem from="1704915020947" duration="72000" />
+      <workItem from="1704915617176" duration="453000" />
+      <workItem from="1704916081955" duration="155000" />
+      <workItem from="1704916239369" duration="47000" />
+      <workItem from="1704916387704" duration="25821000" />
+      <workItem from="1705177907174" duration="27143000" />
+      <workItem from="1705271977076" duration="7392000" />
+      <workItem from="1705342826741" duration="4982000" />
+      <workItem from="1705347980402" duration="2340000" />
+      <workItem from="1705350619087" duration="68000" />
+      <workItem from="1705442355299" duration="66000" />
+      <workItem from="1705442430838" duration="1314000" />
+      <workItem from="1705514170048" duration="75000" />
+      <workItem from="1705517557029" duration="13000" />
+      <workItem from="1705517837850" duration="92000" />
+      <workItem from="1705517943243" duration="1711000" />
+      <workItem from="1705519667496" duration="511000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
